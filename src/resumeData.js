@@ -1,45 +1,39 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://github.com/quaddss52",
+    "name": "Akinpelu Quadri",
+    "role": "Frontend Developer",
+    "linkedinId":"quadri (Moyosore) akinpelu",
+    "twitterId":"quadrAkinpelu",
+    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, solve problems or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/quadri-akinpelu-49b0b7111/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/quaddss52",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "name":"twitter",
+          "url":"http://twitter.com/quadrAkinpelu",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am a self taught Frontend Web Developer, currently diving deeper into Full Stack Development. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "address":"Lagos,Nigeria",
+    "website":"https://github.com/quaddss52",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
+        "UniversityName":"University of Lagos",
+        "specialization":"Quantity Surveying",
         "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
+        "YearOfPassing":"2021",
+        "Achievements":"Bachelor of Science"
+      },
+      
     ],
     "work":[
       {
@@ -71,34 +65,34 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"News Grid",
+        "description":"News Grid",
+        "imgurl":"../../public/images/portfolio/farmerboy.jpg"
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"../../public/images/portfolio/farmerboy.jpg"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"../../public/images/portfolio/farmerboy.jpg"
       },
       {
         "name":"project4",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"../../public/images/portfolio/farmerboy.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"You have a great zeal to work and solving problems",
+        "name":"@habbeyunik - Frontend Dev"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"You have a keen eye for building functional Frontend Application with incredible work ethic",
+        "name":"Olorunnisola Grace Yeside Damilola Omoiya mi no 1"
       }
     ]
   }
