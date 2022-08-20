@@ -66,23 +66,28 @@ let resumeData = {
     "portfolio":[
       {
         "name":"News Grid",
-        "description":"News Grid",
-        "imgurl":"../../public/images/portfolio/farmerboy.jpg"
+        "description":"A mock website for News Grid",
+        "imgurl":"images/portfolio/newsgrid.png",
+        "url":"https://brilliant-narwhal-b8932c.netlify.app"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"../../public/images/portfolio/farmerboy.jpg"
+        "name":"Feedback-UI",
+        "description":"A react app that enables a customer leave a feedback and rating",
+        "imgurl":"images/portfolio/feedback-UI.png",
+        "url":"https://rad-nougat-64c373.netlify.app/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"../../public/images/portfolio/farmerboy.jpg"
+        "name":"Finsweet Auto",
+        "description":"A landing page for finsweet auto mechanics ",  
+        "imgurl":"images/portfolio/finsweet.png",
+        "url":"https://effulgent-mooncake-fb8fe5.netlify.app"
+
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"../../public/images/portfolio/farmerboy.jpg"
+        "name":"Github Finder",
+        "description":"A react app used for finding and displaying any Github user",
+        "imgurl":"images/portfolio/github-finder.png",
+        "url":"https://github-finder-master.vercel.app/"
       }
     ],
     "testimonials":[
