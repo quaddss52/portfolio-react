@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://github.com/quaddss52",
     "name": "Akinpelu Quadri",
     "role": "Frontend Developer",
-    "linkedinId":"quadri (Moyosore) akinpelu",
+    "linkedinId":"quadri akinpelu",
     "twitterId":"quadrAkinpelu",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, solve problems or simply play games in my free time.",
     "socialLinks":[
@@ -20,10 +20,15 @@ let resumeData = {
           "name":"twitter",
           "url":"http://twitter.com/quadrAkinpelu",
           "className":"fa fa-twitter"
+        },
+        {
+          "name":"Gmail",
+          "url":"mailto:akinpelumoyo@gmail.com",
+          "className":"fa fa-envelope"
         }
       ],
     "aboutme":"I am a self taught Frontend Web Developer, currently diving deeper into Full Stack Development. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"Lagos,Nigeria",
+    "address":"Lagos, Nigeria",
     "website":"https://github.com/quaddss52",
     "education":[
       {
@@ -50,6 +55,24 @@ let resumeData = {
         "YearOfLeaving":"2018",
         "Achievements":"Some Achievements"
       }
+    ],
+    "logo":[
+      {
+        "name":"HTML",
+        "url":"images/skills/html.png"
+      },
+      {
+        "name":"CSS",
+        "url":"images/skills/css.png"
+      },
+      {
+        "name":"JS",
+        "url":"images/skills/javascript.png"
+      },
+      {
+        "name":"",
+        "url":"images/skills/react.png"
+      },
     ],
     "skillsDescription":"Your skills here",
     "skills":[
@@ -88,6 +111,12 @@ let resumeData = {
         "description":"A react app used for finding and displaying any Github user",
         "imgurl":"images/portfolio/github-finder.png",
         "url":"https://github-finder-master.vercel.app/"
+      },
+      {
+        "name":"Portfolio Template",
+        "description":"A Portfolio template built with HTML & CSS",
+        "imgurl":"images/portfolio/portfolio.png",
+        "url":"https://roaring-narwhal-44f01c.netlify.app"
       }
     ],
     "testimonials":[
@@ -97,7 +126,7 @@ let resumeData = {
       },
       {
         "description":"You have a keen eye for building functional Frontend Application with incredible work ethic",
-        "name":"Olorunnisola Grace Yeside Damilola Omoiya mi no 1"
+        "name":"Olorunnisola Grace Yeside - BA"
       }
     ]
   }

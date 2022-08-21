@@ -107,6 +107,7 @@
       position: fixed;
       top: 0;
       right: 0;
+      
    }
    #nav-wrap > a {
 	   width: 48px;
@@ -230,6 +231,18 @@
       padding-top: 0;
       margin-bottom: 48px;
       text-align: center;
+   }
+   #resume .logo{
+
+      display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+   
+   
+   }
+   #resume img{
+      width: 120px;
+      height:150px;
    }
    #resume h1 { letter-spacing: 3px; }
    #resume .main-col { padding-right: 30px; }

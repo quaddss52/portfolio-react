@@ -6,20 +6,29 @@ export default class ContactUs extends Component {
       <section id="contact">
           <div className="row section-head">
             <div className="ten columns">
-              <p className="lead">
-              Feel free to contact me for any work or suggestions below
+               <p className="lead">
+              Ways to contact me
               </p>
             </div>
           </div>
           <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                <h4>Linked in :
-                  {resumeData.linkedinId}
-                </h4>
-              </div>
-            </aside>
-          </div>
+        <div className="twelve columns">
+          <ul className="social-links">
+            {
+              resumeData.socialLinks && resumeData.socialLinks.map((item)=>{
+                return(
+                  <li>
+                    <a href={item.url}>
+                    <i className={` ${item.className} fa-2x`}/>
+                    </a>
+                  </li>
+                )
+              })
+            }
+          </ul>
+          
+        </div>
+        </div>
         </section>
         );
   }
