@@ -367,6 +367,11 @@ width: 10px;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
+.javascript {
+  	width: 75%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
 .html5 {
   	width: 90%;
   	-moz-animation: html5 2s ease;
@@ -852,12 +857,14 @@ call-to-action .button {
 #contact p.lead {
    font: 5rem 'opensans-light', sans-serif;
    font-weight: bold;
-   text-align: center;
+   text-align: center;  
+   
 }
 #contact ul {
    display: grid;
    grid-template-columns:auto auto auto auto ;
-   justify-content: space-between;
+   justify-content: center;
+   grid-gap: 3rem;
    margin-right:2rem ;
 }
 /* #contact ul li{

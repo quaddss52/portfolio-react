@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://github.com/quaddss52",
     "name": "Akinpelu Quadri",
     "role": "Frontend Developer",
-    "linkedinId":"quadri akinpelu",
+    "linkedinId":"Quadri Akinpelu",
     "twitterId":"quadrAkinpelu",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, solve problems or simply play games in my free time.",
     "socialLinks":[
@@ -29,7 +29,7 @@ let resumeData = {
       ],
     "aboutme":"I am a self taught Frontend Web Developer, currently diving deeper into Full Stack Development. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Lagos, Nigeria",
-    "website":"https://github.com/quaddss52",
+    "website":"akinpelumoyo@gmail.com",
     "education":[
       {
         "UniversityName":"University of Lagos",
@@ -74,13 +74,16 @@ let resumeData = {
         "url":"images/skills/react.png"
       },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Skill level",
     "skills":[
       {
         "skillname":"HTML5"
       },
       {
         "skillname":"CSS"
+      },
+      {
+        "skillname":"JavaScript"
       },
       {
         "skillname":"Reactjs"
@@ -97,7 +100,7 @@ let resumeData = {
         "name":"Feedback-UI",
         "description":"A react app that enables a customer leave a feedback and rating",
         "imgurl":"images/portfolio/feedback-UI.png",
-        "url":"https://rad-nougat-64c373.netlify.app/"
+        "url":"https://feedback-ashen-chi.vercel.app/"
       },
       {
         "name":"Finsweet Auto",

@@ -33,7 +33,7 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <a href={`${resumeData.website}`}>
+                    <a href={`mailto:${resumeData.website}`}>
                     <span>{resumeData.website}</span>
 
                     </a>
