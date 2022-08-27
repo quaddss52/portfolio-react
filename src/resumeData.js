@@ -105,8 +105,8 @@ let resumeData = {
       {
         "name":"Finsweet Auto",
         "description":"A landing page for finsweet auto mechanics ",  
-        "imgurl":"images/portfolio/finsweet.png",
-        "url":"https://effulgent-mooncake-fb8fe5.netlify.app"
+        "imgurl":"images/portfolio/fin.png",
+        "url":"https://fin-ten.vercel.app/"
 
       },
       {
