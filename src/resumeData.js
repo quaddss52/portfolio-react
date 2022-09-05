@@ -120,6 +120,12 @@ let resumeData = {
         "description":"A Portfolio template built with HTML & CSS",
         "imgurl":"images/portfolio/portfolio.png",
         "url":"https://roaring-narwhal-44f01c.netlify.app"
+      },
+      {
+        "name":"Recipe Village",
+        "description":"A React app built to cater to the needs of users who have a passion for cooking",
+        "imgurl":"images/portfolio/Recipe-village.png",
+        "url":"https://recipe-village.vercel.app/"
       }
     ],
     "testimonials":[
