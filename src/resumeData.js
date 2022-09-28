@@ -126,6 +126,12 @@ let resumeData = {
         "description":"A React app built to cater to the needs of users who have a passion for cooking",
         "imgurl":"images/portfolio/Recipe-village.png",
         "url":"https://recipe-village.vercel.app/"
+      },
+      {
+        "name":"Apartment 360",
+        "description":"A react app that makes selling or renting a house so much easier",
+        "imgurl":"images/portfolio/apartment-360.png",
+        "url":"https://apartment-360-3qaj.vercel.app/"
       }
     ],
     "testimonials":[
