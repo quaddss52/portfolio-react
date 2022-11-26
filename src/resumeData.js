@@ -103,10 +103,10 @@ let resumeData = {
         "url":"https://feedback-ashen-chi.vercel.app/"
       },
       {
-        "name":"Finsweet Auto",
-        "description":"A landing page for finsweet auto mechanics ",  
-        "imgurl":"images/portfolio/fin.png",
-        "url":"https://fin-ten.vercel.app/"
+        "name":"Support Desk",
+        "description":" A Virtual Support Ticketing system built with React and MongoDB ",  
+        "imgurl":"images/portfolio/SupportDesk.png",
+        "url":"https://quaddssupportdesk.herokuapp.com/"
 
       },
       {
