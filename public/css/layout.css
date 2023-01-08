@@ -297,6 +297,27 @@ width: 10px;
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
+#resume .skill-grid{
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   justify-content: center;
+   align-content: center;
+   grid-gap: 1.5rem;
+}
+#resume .skill-badge{
+   width:100px;
+   height: 100px;
+   background-color:  #F06000;
+   opacity: 0.9;
+   border-top-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 20px;
+   
+}
+
 
 /*----------------------------------------------*/
 /*	Skill Bars

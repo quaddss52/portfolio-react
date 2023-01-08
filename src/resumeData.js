@@ -42,19 +42,19 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Writing Alley",
+        "specialization":"Frontend Developer",
+        "MonthOfLeaving":"Jan 2021",
+        "YearOfLeaving":"current",
+        "Achievements":""
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+      // {
+      //   "CompanyName":"Some Company",
+      //   "specialization":"Some specialization",
+      //   "MonthOfLeaving":"Jan",
+      //   "YearOfLeaving":"2018",
+      //   "Achievements":"Some Achievements"
+      // }
     ],
     "logo":[
       {
@@ -73,6 +73,40 @@ let resumeData = {
         "name":"",
         "url":"images/skills/react.png"
       },
+    ],
+    "svg":[
+      {
+        "name":"HTML",
+        "url":"/svgs/html.svg"
+      },
+      {
+        "name":"HTML",
+        "url":"/svgs/css.svg"
+      },
+      {
+        "name":"HTML",
+        "url":"/svgs/javascript.svg"
+      },
+      {
+        "name":"HTML",
+        "url":"/svgs/react.svg"
+      },
+      {
+        "name":"HTML",
+        "url":"/svgs/tailwind.svg"
+      },
+      {
+        "name":"HTML",
+        "url":"/svgs/typescript.svg"
+      },
+      {
+        "name":"HTML",
+        "url":"/svgs/git.svg"
+      },
+      {
+        "name":"HTML",
+        "url":"/svgs/github.svg"
+      }
     ],
     "skillsDescription":"Skill level",
     "skills":[
